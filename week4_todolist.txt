@@ -1,0 +1,25 @@
+index.html
+---
+[x] 建立環境
+[x] 定義資料
+[x] 登入功能(串接api, 儲存token, )
+[x] 登入成功 轉頁面到 admin-products
+[x] 登入錯誤提示
+[x] api loading 動畫 
+
+admin-products.html
+---
+[x] 建立環境
+[x] 定義資料
+[x] 取得 token，axios 預設 header
+[x] 取得產品資料
+[x] 取得產品 api 錯誤提示
+[x] 畫面渲染
+[x] api 等待動畫
+-- module --
+[x] 分頁功能
+[x] 新增產品資料功能
+[x] 編輯產品功能
+[x] 刪除產品功能
+[x] 圖片上傳功能
+[x] 新增一個自訂欄位
